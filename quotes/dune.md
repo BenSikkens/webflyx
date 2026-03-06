@@ -4,3 +4,5 @@
 - "When Is A Gift Not A Gift?"
 - "The spice must flow."
 - "Fear is the mind-killer."
+- "Hope clouds observation"
+- "The people who can destroy a thing, they control it."
